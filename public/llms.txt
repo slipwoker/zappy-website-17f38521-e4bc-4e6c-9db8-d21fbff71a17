@@ -1,0 +1,83 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+חנות המשאבים הפדגוגיים שמורים אוהבים! דפי עבודה להדפסה לבית הספר, משחקים ומצגות מוכנות — כל מה שצריך להפוך כל שיעור לחוויה. גלו עכשיו!
+
+### גישת ההוראה
+https://example.com/teaching-approach
+גלו את הפילוסופיה החינוכית שעומדת מאחורי כל חומר לימוד בקליק פדגוגי. משאבי הוראה דיגיטליים למורים שנבנו מתוך ניסיון כיתתי אמיתי ואהבה אמיתית להוראה.
+
+### גלריית תצוגה
+https://example.com/preview-gallery
+דפדפו בגלריית התצוגה של קליק פדגוגי וגלו משחקים להדפסה לכיתה, דפי עבודה ומצגות צבעוניות. ראו בדיוק מה תקבלו לפני הרכישה — איכות שמדברת בעד עצמה!
+
+### אודות
+https://example.com/about
+מאחורי קליק פדגוגי עומדת מורה שיודעת בדיוק מה צריך בכיתה. הכירו את הסיפור, הערכים והתשוקה שהפכו מצגות מוכנות למורים ודפי עבודה לשפה חינוכית שלמה.
+
+### צור קשר
+https://example.com/contact
+מורים, הורים ואנשי חינוך — קליק פדגוגי כאן בשבילכם! שלחו שאלה, בקשה מיוחדת או סתם שתפו ברעיון. נשמח לעזור ולהתאים את דפי העבודה להדפסה לצרכים שלכם.
+
+### Products
+https://example.com/products
+המוצרים שלנו - קליק פדגוגי
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - קליק פדגוגי
+
+### Category
+https://example.com/category/:slug
+מוצרים - קליק פדגוגי
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
